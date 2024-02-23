@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1 align="center"> Hey there 👋, I'm Stainless </h1>
+
+<a href="https://wakatime.com/@018c36a0-3eb2-487e-ad11-93babb0317ea"><img src="https://wakatime.com/badge/user/018c36a0-3eb2-487e-ad11-93babb0317ea.svg?style=for-the-badge" alt="Total time coded since Dec 4 2023" /></a>
 
 <!--
 **StainlessDev/StainlessDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
