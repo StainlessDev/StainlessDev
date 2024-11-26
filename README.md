@@ -1,7 +1,5 @@
 
 <h1 align="center">
-  <img src="https://github.com/StainlessDev/StainlessDev/blob/d064a2e7cefe83ea58ec3add1c1dd84cd941b033/pfp.png" height="auto" width="150"/>
-  
   <p>Hey there, I'm Stainless <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></p>
 </h1>
 <a href="https://wakatime.com/@018c36a0-3eb2-487e-ad11-93babb0317ea"><img src="https://wakatime.com/badge/user/018c36a0-3eb2-487e-ad11-93babb0317ea.svg?style=for-the-badge" alt="Total time coded since Dec 4 2023" /></a>
